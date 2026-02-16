@@ -64,10 +64,7 @@ This file includes:
 
 ## 🖼 Dashboard Preview
 
-
-
-Example:  
-`![Dashboard Overview](dashboard_overview.png)`
+![Dashboard Overview](Salary.png)
 
 ---
 
