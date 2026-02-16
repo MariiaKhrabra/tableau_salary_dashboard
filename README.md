@@ -64,7 +64,8 @@ This file includes:
 
 ## 🖼 Dashboard Preview
 
-*https://github.com/mashakhrabra/tableau_salary_dashboard/blob/main/Salary2021_2023.png
+*<img width="1900" height="1033" alt="image" src="https://github.com/user-attachments/assets/24e3adb0-556f-49f0-9fa1-2e3e7cc9bd32" />
+
 *  
 
 ---
