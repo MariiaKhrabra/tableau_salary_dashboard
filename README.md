@@ -64,9 +64,8 @@ This file includes:
 
 ## 🖼 Dashboard Preview
 
-*<img width="1900" height="1033" alt="image" src="https://github.com/user-attachments/assets/24e3adb0-556f-49f0-9fa1-2e3e7cc9bd32" />
+<img width="1900" height="1033" alt="image" src="https://github.com/user-attachments/assets/24e3adb0-556f-49f0-9fa1-2e3e7cc9bd32" />
 
-*  
 
 ---
 
@@ -74,7 +73,9 @@ This file includes:
 
 Add your Tableau Public link here:
 
-`[https://public.tableau.com/...]([Salary2021_2023.png])`
+Add your Tableau Public link here:
+
+`[https://public.tableau.com/...](https://github.com/mashakhrabra/tableau_salary_dashboard/blob/main/Salary2021_2023.png)`
 
 ---
 
