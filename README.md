@@ -63,7 +63,7 @@ This file includes:
 ---
 
 ## 🖼 Dashboard Preview
-![Dashboard Overview](Salary Data Science 2021-2023.png)
+`![Dashboard Overview](Salary Data Science 2021-2023.png)`
 
 ---
 
