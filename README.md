@@ -63,7 +63,18 @@ This file includes:
 ---
 
 ## 🖼 Dashboard Preview
-`!([Salary Data Science 2021-2023.png](https://github.com/mashakhrabra/tableau_salary_dashboard/blob/main/Salary%20Data%20Science%202021-2023.png))`
+
+*(Insert your screenshot here)*  
+Example:  
+`![Dashboard Overview](Salary Data Science 2021-2023.png)`
+
+---
+
+## 🔗 Dashboard Link
+
+Add your Tableau Public link here:
+
+`[https://public.tableau.com/...](https://github.com/mashakhrabra/tableau_salary_dashboard/blob/main/Salary%20Data%20Science%202021-2023.png)`
 
 ---
 
