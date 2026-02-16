@@ -63,7 +63,6 @@ This file includes:
 ---
 
 ## 🖼 Dashboard Preview
-
 ![Dashboard Overview](Salary.png)
 
 ---
